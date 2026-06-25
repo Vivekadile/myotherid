@@ -1,5 +1,13 @@
-# 💫 About Me:
-I'm currently working on<br>Developing AI-powered applications and building a strong foundation in software engineering.<br><br>I'm looking to collaborate on<br>Open-source projects related to Artificial Intelligence, Machine Learning, and Python.<br><br>I'm looking for help with<br>MLOps, distributed systems, and writing production-ready software.<br><br>I'm currently learning<br>Machine Learning, Deep Learning, System Design, and Cloud Technologies.<br><br>Ask me about<br>Python, AI/ML, research, software development, and problem solving.<br><br>Fun fact<br>I prefer building projects that solve real problems over collecting certificates.
+# 💫 About Me
+* Currently working on:* Building AI-powered applications and practical Deep Learning projects.
+
+* Looking to collaborate on:* Open-source projects in AI, Deep Learning, and Python.
+* 
+* urrently learning:* Deep Learning, Computer Vision, NLP, and Cloud Technologies.
+
+* Ask me about:* Python, Machine Learning, Deep Learning, and research.
+
+* **Fun fact:**I prefer learning by building real-world projects over following tutorials.
 
 
 ## 🌐 Socials:
